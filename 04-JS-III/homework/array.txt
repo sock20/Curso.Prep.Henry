@@ -1,0 +1,2 @@
+Los arreglos son una lista de elementos ordenados que pueden ser
+de cualquier tipo de variable y que son accedidos a traves de un indice.
