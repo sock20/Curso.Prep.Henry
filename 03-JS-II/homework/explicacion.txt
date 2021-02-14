@@ -1,0 +1,22 @@
+Un bucle FOR es una estructura de control de 3 partes 
+que repite el bloque de instrucciones un número prederminado de veces.
+
+parte 1: donde inicializas la variable a 0. (var i=0)
+parte 2: donde se ejecuta la condicion a ejecutar. (i<n)
+parte 3: donde se establece el valor de la variable a su valor actual mas 1. (i++)
+
+&& AND
+|| OR
+! NOT
+
+Son operadores logicos que nos permiten combinar 2 expresiones de igualdad y preguntar si alguna 
+de las 2 es verdadera o ambas.
+
+&& para que una operacion resulte True los 2 operadores o expresiones deben ser verdaderas.
+
+|| Si una de las 2 expresiones es True, la operacion sera true.
+
+! devolvera el valor opuesto de lo que le pase.
+
+1!==1   //true
+1!=='1' //false
