@@ -1,0 +1,8 @@
+objetos es una coleccion de propiedades y una propiedad es 
+una asociacion entre un nombre (o clave) y un valor.
+
+Los metodos son funciones que permite efectuar el objeto y que
+nos rinden algún tipo de servicio durante el transcurso del programa.
+
+La instrucción for-in itera sobre todas las propiedades enumerables
+de un objeto que está codificado por cadenas.
