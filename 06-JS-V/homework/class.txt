@@ -1,0 +1,7 @@
+Prototype es una propiedad de Object, el objeto del que se derivan
+todos los demás objetos, y esta propiedad es, a su vez, un objeto.
+
+Se le llama constructor a un tipo especial de método de una clase,
+que se ejecuta automáticamente a la hora de hacer un new de dicha clase.
+Una clase solo puede tener un constructor, y en el caso de que no se 
+especifique un constructor a una clase, tendrá uno vacío de forma implícita. 
