@@ -1,0 +1,39 @@
+.container {
+    background-color: #fafafa;
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    justify-content: center;
+    text-align: center;
+  }
+
+  .container2 {
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+  }
+
+body { 
+    background-image: url("https://devmagazine.co/wp-content/uploads/2018/07/lenguaje-de-programaci%C3%B3n.jpg") 
+}
+
+img {
+    width: 300px;
+    width: 320px;
+    padding: 20px;
+}
+
+h1{
+ color: blue;   
+}
+
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
